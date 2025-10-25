@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1234567890,
+      "filename": "lineage-14.1-YYYYMMDD-UNOFFICIAL-yourtablet.zip",
+      "id": "unique-id-like-md5-or-uuid",
+      "romtype": "unofficial",
+      "size": 314572800,
+      "url": "https://github.com/yourusername/your-ota-repo/releases/download/r1/lineage-14.1-YYYYMMDD-UNOFFICIAL-yourtablet.zip",
+      "version": "14.1"
+    }
+  ]
+}
