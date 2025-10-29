@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1761657293,
-      "filename": "lineage-14.1-20251028-UNOFFICIAL-a04br3.zip",
-      "id": "1507d9b4fe7430ad47fa05d563755154",
+      "datetime": 1761731554,
+      "filename": "lineage-14.1-20251029-UNOFFICIAL-a04br3.zip",
+      "id": "af9bb2894dff6e3f1dbf0cbc8fa91b6b",
       "romtype": "unofficial",
-      "size": 549954357,
-      "url": "https://github.com/Nyaruke/rinu-tigusa-test-omuraichu/releases/download/v1.0.7/lineage-14.1-20251028-UNOFFICIAL-a04br3.zip",
+      "size": 549953422,
+      "url": "https://github.com/Nyaruke/rinu-tigusa-test-omuraichu/releases/download/v1.0.8/lineage-14.1-20251029-UNOFFICIAL-a04br3.zip",
       "version": "14.1"
     }
   ]
